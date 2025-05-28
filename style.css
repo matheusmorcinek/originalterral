@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  header {
+    margin-bottom: 2rem;
+  }
+  
+  button {
+    padding: 1rem 2rem;
+    background-color: #008060;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #005e45;
+  }
+  
+  footer {
+    margin-top: 4rem;
+    font-size: 0.9rem;
+    color: #777;
+  }
+  
